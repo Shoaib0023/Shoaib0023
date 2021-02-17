@@ -1,16 +1,12 @@
-### Hi there 👋, I'm Mohammed Shoaib - [Let's see][website]
+### Hi there 👋, I'm **Mohammed Shoaib** - [Let's see][website]
 
 ## I'm a Software Engineer and a Problem Solver !!
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - Experienced in object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks
 - Ability to leverage full-stack knowledge and experience to build interactive and user centered website designs to scale
 - Facilitating cutting-edge engineering solutions 
 - Quickly learn and master new technologies; successful working in both team and self-directed settings.
 
-<!-- - 👯 I’m looking to collaborate with other content creators -->
-
-<span style="color:blue">some *blue* text</span>.
 
 ### Connect with me:
 
@@ -22,7 +18,6 @@
 <br />
 
 [website]: https://shoaib0023.github.io/portfolio/
-<!-- [course]: http://vsCodeHero.com -->
 [twitter]: https://twitter.com/Mohamme98292160
 [instagram]: https://www.instagram.com/mshoaib9942/
 [linkedin]: https://www.linkedin.com/in/mo-shoaib-94467a18b/
