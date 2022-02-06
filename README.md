@@ -17,7 +17,7 @@
 
 <br />
 
-[website]: https://shoaib0023.github.io/portfolio/
+[website]: https://www.mshoaib.space/
 [twitter]: https://twitter.com/Mohamme98292160
 [instagram]: https://www.instagram.com/mshoaib9942/
 [linkedin]: https://www.linkedin.com/in/mo-shoaib-94467a18b/
